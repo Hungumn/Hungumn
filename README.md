@@ -1,3 +1,4 @@
+![Easy Frontend banner](https://res.cloudinary.com/kimwy/image/upload/v1598840121/easyfrontend/easy-frontend-banner-cropped_yjw0g0.jpg)
 - 👋 Hi, I’m Đỗ Tú Hưng
 - 👀 I’m Advanced Diploma in Software Engineering in Aptech
   	- ⚡ Quick bio:                    "A kind of metalHead-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
